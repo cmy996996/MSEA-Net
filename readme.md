@@ -1,6 +1,7 @@
 # MSEA-Net
 
-High-Accuracy Follicle Segmentation in Ultrasound Images Using Multi-Scale Enhanced Attention and U-Net
+Multi-scale enhanced attention network for high-accuracy follicle segmentation in ultrasound images
+
 
 ## Project Overview
 
